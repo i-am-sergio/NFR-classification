@@ -36,7 +36,7 @@ const Navbar: React.FC = () => {
   return (
     <nav className="bg-transparent p-4 text-white">
       <div className="container mx-auto flex justify-between items-center">
-        <span className="font-bold text-2xl sigmar-regular">ClassifyRQ</span>
+        <span className="font-bold text-2xl sigmar-regular">ReqAssist</span>
         <div className="flex items-center">
           {/* Model Selector */}
           <div className="relative mr-4">

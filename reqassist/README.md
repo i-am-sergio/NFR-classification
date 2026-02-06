@@ -1,4 +1,4 @@
-# ClassifyRQ
+# ReqAssist
 
 Es una aplicacion que permite usar los modelos entrenados de ML para la clasificacion de requisitos de software. Puedes introducir un requisito o subir un archivo con una lista de requisitos
 
