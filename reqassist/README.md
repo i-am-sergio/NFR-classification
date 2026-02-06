@@ -8,10 +8,5 @@ Ingresar la palabra: `clasifica:` seguido del requisito de software. Ejemplo:
 clasifica: El sistema debe soportar el manejo de mas de 50 usuarios al mismo tiempo 
 ```
 
-### Modo Prompt + File
-Ingresa la palabra: `clasifica:` y adjunta el archivo `.txt`o `.json` con la lista de requisitos.
-
-![Prompt Mode](public/image.png)
-
 ### Execution
-![alt text](public/screenshot1.png)
+![alt text](public/app_screenshot.png)
